@@ -1,1 +1,2 @@
 Hello, world. I don't know what I'm doing right now. 
+did i succesfully set up my environment in this new laptop?
